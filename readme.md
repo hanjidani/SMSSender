@@ -1,0 +1,1 @@
+# An app to send SMS by special LTE modem(other devices has similar logics.).
